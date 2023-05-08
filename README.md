@@ -22,6 +22,9 @@ In addition, we have developed machine learning models using logistic regression
 <p style="text-align: justify;">
 Overall, this project provides a comprehensive analysis of the Eurovision Song Contest, with insights derived from both traditional statistical methods and machine learning techniques. We hope that this work will be useful for researchers and Eurovision enthusiasts alike, and that it can serve as a basis for future studies on this topic.
 </p>
+<p style="text-align: justify;">
+If you would like to see a more detailed analysis of the Eurovision Final, please refer to the Jupyter file <a href="https://github.com/FranAvilaGalvan/eurovision/blob/main/EUROVISION_NOTEBOOK.ipynb">EUROVISION_NOTEBOOK.ipynb</a>. It contains a comprehensive examination of the event using the beforementioned tools and techniques.
+</p>
 
 
 ```python
