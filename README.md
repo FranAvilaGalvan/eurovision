@@ -1,5 +1,5 @@
 
-![portadareadme.png](attachment:portadareadme.png)
+<img src="images/portadareadme.png">
 
 <ul>
     <li><img src="images/githublogo.png" width="16" height="16" style="float:left;margin-right:10px;"> <a href="https://github.com/jeslopcas">Jessica López</a></li>
@@ -22,3 +22,8 @@ In addition, we have developed machine learning models using logistic regression
 <p style="text-align: justify;">
 Overall, this project provides a comprehensive analysis of the Eurovision Song Contest, with insights derived from both traditional statistical methods and machine learning techniques. We hope that this work will be useful for researchers and Eurovision enthusiasts alike, and that it can serve as a basis for future studies on this topic.
 </p>
+
+
+```python
+
+```
